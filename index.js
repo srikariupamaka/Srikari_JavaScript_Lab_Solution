@@ -74,11 +74,11 @@ function showProgress() {
 
 
 let questions = [
-    new Question("Question 1",["opt1","opt2","opt3","opt4"],"opt1"), 
-    new Question("Question 2",["opt1","opt2","opt3","opt4"],"opt2"), 
-    new Question("Question 3",["opt1","opt2","opt3","opt4"],"opt3"), 
-    new Question("Question 4",["opt1","opt2","opt3","opt4"],"opt4"), 
-    new Question("Question 5",["opt1","opt2","opt3","opt4"],"opt2"), 
+    new Question("Question 1",["option1","option2","option3","option4"],"option1"), 
+    new Question("Question 2",["option1","option2","option3","option4"],"option2"), 
+    new Question("Question 3",["option1","option2","option3","option4"],"option3"), 
+    new Question("Question 4",["option1","option2","option3","option4"],"option4"), 
+    new Question("Question 5",["option1","option2","option3","option4"],"option2"), 
 
 ];
 
